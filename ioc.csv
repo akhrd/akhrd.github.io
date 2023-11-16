@@ -1,5 +1,5 @@
-csv1,www.aajtak.in,domain,High,High,AB,Block
-csv2,www.amazon.com,domain,High,High,AB,blockcsv
+csv1,www.aajtak.in,DOMAIN,High,High,AB,Block
+csv2,www.amazon.com,DOMAIN,High,High,AB,blockcsv
 csv3,https://www.aljazeera.com/,URL,High,High,AB,blockcsv1
 csv4,https://www.isc2.org/,URL,High,High,AB,ics2
 csv5,https://threatpoint.checkpoint.com/,URL,High,High,AB,threatcloud

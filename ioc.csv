@@ -1,1 +1,3 @@
-observ1,www.aajtak.in,domain,High,High,AB,Block
+csv1,www.aajtak.in,domain,High,High,AB,Block
+csv2,www.amazon.com,domain,High,High,AB,blockcsv
+csv3,https://www.amazon.in/gp/browse.html?node=1389401031&ref_=nav_em_sbc_mobcomp_all_mobiles_0_2_8_2,URL,High,High,AB,blockcsv1

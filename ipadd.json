@@ -2,26 +2,26 @@
   {
     "value": "21.21.21.21",
     "confidence": "high",
-    "product": "AB"
+    "comment": "A"
   },
   {
     "value": "31.31.31.31",
     "confidence": "high",
-    "product": "AB"
+    "comment": "k"
   },
   {
     "value": "41.41.41.41",
     "confidence": "high",
-    "product": "AB"
+    "comment": "h"
   },
   {
     "value": "www.anz.com",
     "confidence": "high",
-    "product": "AB"
+    "comment": "r"
   },
   {
     "value": "*.harveynorman.com.au",
     "confidence": "high",
-    "product": "AB"
+    "comment": "d"
   }
 ]

@@ -1,0 +1,17 @@
+[
+  {
+    "IP": "21.21.21.21",
+    "confidence": "high",
+    "product": "AB"
+  },
+  {
+    "IP": "31.31.31.31",
+    "confidence": "high",
+    "product": "AB"
+  },
+  {
+    "IP": "41.41.41.41",
+    "confidence": "high",
+    "product": "AB"
+  }
+]

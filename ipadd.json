@@ -1,16 +1,26 @@
 [
   {
-    "IP": "21.21.21.21",
+    "value": "21.21.21.21",
     "confidence": "high",
     "product": "AB"
   },
   {
-    "IP": "31.31.31.31",
+    "value": "31.31.31.31",
     "confidence": "high",
     "product": "AB"
   },
   {
-    "IP": "41.41.41.41",
+    "value": "41.41.41.41",
+    "confidence": "high",
+    "product": "AB"
+  },
+  {
+    "value": "www.anz.com",
+    "confidence": "high",
+    "product": "AB"
+  },
+  {
+    "value": "*.harveynorman.com.au",
     "confidence": "high",
     "product": "AB"
   }

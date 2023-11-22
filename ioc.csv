@@ -4,3 +4,4 @@ csv3,https://www.aljazeera.com/,URL,High,High,AB,blockcsv1
 csv4,https://www.isc2.org/,URL,High,High,AB,ics2
 csv5,https://threatpoint.checkpoint.com/,URL,High,High,AB,threatcloud
 csv6,5.5.5.5,IP,High,High,AB,Ipadesscheck
+csv7,https://support.checkpoint.com/results/sk/sk171436,URL,High,High,AB,SKDOC

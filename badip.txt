@@ -1,3 +1,5 @@
 www.icicibank.com
 ntrade.hdfcsec.com
 www.hdfcbank.com
+www.google.com
+mail.google.com
